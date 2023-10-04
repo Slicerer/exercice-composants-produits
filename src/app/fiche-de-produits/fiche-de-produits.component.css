@@ -1,0 +1,29 @@
+.outside{
+    height: 300px;
+    margin: 0 0px 20px 10px; 
+    background-color: blue;
+    text-align: center;
+}
+.pmarge{
+    padding-top: 10px;
+}
+
+.divInside{
+   
+    height: 200px;
+    margin: 0 10px 0px 0px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.right-div_fiche_produit{
+    background-color: black;
+    width: 300px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}

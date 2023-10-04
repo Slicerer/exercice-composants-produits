@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+div{
+    background-color: yellow;
+    height: 700px;
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
